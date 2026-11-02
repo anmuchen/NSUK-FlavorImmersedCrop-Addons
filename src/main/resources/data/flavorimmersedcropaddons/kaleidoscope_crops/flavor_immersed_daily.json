@@ -1,0 +1,296 @@
+{
+  "mod": "flavor_immersed_daily",
+  "prefix": "fid",
+  "label": "source.flavorimmersedcropaddons.flavor_immersed_daily",
+  "discover": false,
+  "crops": [
+    {
+      "id": "aniseed_0",
+      "seed": "flavor_immersed_daily:aniseed_0",
+      "plant": "flavor_immersed_daily:aniseed_0"
+    },
+    {
+      "id": "blueberryseed",
+      "seed": "flavor_immersed_daily:blueberryseed",
+      "plant": "flavor_immersed_daily:blueberryseed"
+    },
+    {
+      "id": "broccoilseed",
+      "seed": "flavor_immersed_daily:broccoilseed",
+      "plant": "flavor_immersed_daily:broccoilseed"
+    },
+    {
+      "id": "buckwheatseed",
+      "seed": "flavor_immersed_daily:buckwheatseed",
+      "plant": "flavor_immersed_daily:buckwheatseed"
+    },
+    {
+      "id": "cabbageseed",
+      "seed": "flavor_immersed_daily:cabbageseed",
+      "plant": "flavor_immersed_daily:cabbageseed"
+    },
+    {
+      "id": "cassavaseeds",
+      "seed": "flavor_immersed_daily:cassavaseeds",
+      "plant": "flavor_immersed_daily:cassavaseeds"
+    },
+    {
+      "id": "cauliflower_seed",
+      "seed": "flavor_immersed_daily:cauliflower_seed",
+      "plant": "flavor_immersed_daily:cauliflower_seed"
+    },
+    {
+      "id": "celeryseed",
+      "seed": "flavor_immersed_daily:celeryseed",
+      "plant": "flavor_immersed_daily:celeryseed"
+    },
+    {
+      "id": "chinesechivesseed",
+      "seed": "flavor_immersed_daily:chinesechivesseed",
+      "plant": "flavor_immersed_daily:chinesechivesseed"
+    },
+    {
+      "id": "chineseleavesseed",
+      "seed": "flavor_immersed_daily:chineseleavesseed",
+      "plant": "flavor_immersed_daily:chineseleavesseed"
+    },
+    {
+      "id": "chineseyamseed",
+      "seed": "flavor_immersed_daily:chineseyamseed",
+      "plant": "flavor_immersed_daily:chineseyamseed"
+    },
+    {
+      "id": "coffeebeanseed",
+      "seed": "flavor_immersed_daily:coffeebeanseed",
+      "plant": "flavor_immersed_daily:coffeebeanseed"
+    },
+    {
+      "id": "cornseed",
+      "seed": "flavor_immersed_daily:cornseed",
+      "plant": "flavor_immersed_daily:cornseed"
+    },
+    {
+      "id": "cuminseed",
+      "seed": "flavor_immersed_daily:cuminseed",
+      "plant": "flavor_immersed_daily:cuminseed"
+    },
+    {
+      "id": "dragonfruitseed",
+      "seed": "flavor_immersed_daily:dragonfruitseed",
+      "plant": "flavor_immersed_daily:dragonfruitseed"
+    },
+    {
+      "id": "fennelseedstates",
+      "seed": "flavor_immersed_daily:fennelseedstates",
+      "plant": "flavor_immersed_daily:fennelseedstates"
+    },
+    {
+      "id": "garlicseed",
+      "seed": "flavor_immersed_daily:garlicseed",
+      "plant": "flavor_immersed_daily:garlicseed"
+    },
+    {
+      "id": "ginger_seed",
+      "seed": "flavor_immersed_daily:ginger_seed",
+      "plant": "flavor_immersed_daily:ginger_seed"
+    },
+    {
+      "id": "greenpepperseeds",
+      "seed": "flavor_immersed_daily:greenpepperseeds",
+      "plant": "flavor_immersed_daily:greenpepperseeds"
+    },
+    {
+      "id": "greentealeavesseed",
+      "seed": "flavor_immersed_daily:greentealeavesseed",
+      "plant": "flavor_immersed_daily:greentealeavesseed"
+    },
+    {
+      "id": "gumboseed",
+      "seed": "flavor_immersed_daily:gumboseed",
+      "plant": "flavor_immersed_daily:gumboseed"
+    },
+    {
+      "id": "hamimelonseed",
+      "seed": "flavor_immersed_daily:hamimelonseed",
+      "plant": "flavor_immersed_daily:hamimelonseed"
+    },
+    {
+      "id": "kao_liang_seed",
+      "seed": "flavor_immersed_daily:kao_liang_seed",
+      "plant": "flavor_immersed_daily:kao_liang_seed"
+    },
+    {
+      "id": "lilac_seed",
+      "seed": "flavor_immersed_daily:lilac_seed",
+      "plant": "flavor_immersed_daily:lilac_seed"
+    },
+    {
+      "id": "millet",
+      "seed": "flavor_immersed_daily:millet",
+      "plant": "flavor_immersed_daily:millet"
+    },
+    {
+      "id": "mungbeanplant",
+      "seed": "flavor_immersed_daily:mungbeanplant",
+      "plant": "flavor_immersed_daily:mungbeanplant"
+    },
+    {
+      "id": "mustrad_seed",
+      "seed": "flavor_immersed_daily:mustrad_seed",
+      "plant": "flavor_immersed_daily:mustrad_seed"
+    },
+    {
+      "id": "nutmegseed",
+      "seed": "flavor_immersed_daily:nutmegseed",
+      "plant": "flavor_immersed_daily:nutmegseed"
+    },
+    {
+      "id": "oatseed",
+      "seed": "flavor_immersed_daily:oatseed",
+      "plant": "flavor_immersed_daily:oatseed"
+    },
+    {
+      "id": "oilrapeseed",
+      "seed": "flavor_immersed_daily:oilrapeseed",
+      "plant": "flavor_immersed_daily:oilrapeseed"
+    },
+    {
+      "id": "onionseed",
+      "seed": "flavor_immersed_daily:onionseed",
+      "plant": "flavor_immersed_daily:onionseed"
+    },
+    {
+      "id": "pea_nut_seed",
+      "seed": "flavor_immersed_daily:pea_nut_seed",
+      "plant": "flavor_immersed_daily:pea_nut_seed"
+    },
+    {
+      "id": "peaseed",
+      "seed": "flavor_immersed_daily:peaseed",
+      "plant": "flavor_immersed_daily:peaseed"
+    },
+    {
+      "id": "pineappleseed",
+      "seed": "flavor_immersed_daily:pineappleseed",
+      "plant": "flavor_immersed_daily:pineappleseed"
+    },
+    {
+      "id": "puplesweetpotatoseed",
+      "seed": "flavor_immersed_daily:puplesweetpotatoseed",
+      "plant": "flavor_immersed_daily:puplesweetpotatoseed"
+    },
+    {
+      "id": "radishseed",
+      "seed": "flavor_immersed_daily:radishseed",
+      "plant": "flavor_immersed_daily:radishseed"
+    },
+    {
+      "id": "red_bean_block",
+      "seed": "flavor_immersed_daily:red_bean_block",
+      "plant": "flavor_immersed_daily:red_bean_block"
+    },
+    {
+      "id": "red_pepper_seed",
+      "seed": "flavor_immersed_daily:red_pepper_seed",
+      "plant": "flavor_immersed_daily:red_pepper_seed"
+    },
+    {
+      "id": "red_tea_seed",
+      "seed": "flavor_immersed_daily:red_tea_seed",
+      "plant": "flavor_immersed_daily:red_tea_seed"
+    },
+    {
+      "id": "scallion_seed",
+      "seed": "flavor_immersed_daily:scallion_seed",
+      "plant": "flavor_immersed_daily:scallion_seed"
+    },
+    {
+      "id": "sesameseed",
+      "seed": "flavor_immersed_daily:sesameseed",
+      "plant": "flavor_immersed_daily:sesameseed"
+    },
+    {
+      "id": "si_chuan_pepper_seed",
+      "seed": "flavor_immersed_daily:si_chuan_pepper_seed",
+      "plant": "flavor_immersed_daily:si_chuan_pepper_seed"
+    },
+    {
+      "id": "soy_bean_seed",
+      "seed": "flavor_immersed_daily:soy_bean_seed",
+      "plant": "flavor_immersed_daily:soy_bean_seed"
+    },
+    {
+      "id": "spinach_seed",
+      "seed": "flavor_immersed_daily:spinach_seed",
+      "plant": "flavor_immersed_daily:spinach_seed"
+    },
+    {
+      "id": "strawberryseed",
+      "seed": "flavor_immersed_daily:strawberryseed",
+      "plant": "flavor_immersed_daily:strawberryseed"
+    },
+    {
+      "id": "sweet_potato_seed",
+      "seed": "flavor_immersed_daily:sweet_potato_seed",
+      "plant": "flavor_immersed_daily:sweet_potato_seed"
+    },
+    {
+      "id": "sweetgreenpepperseed",
+      "seed": "flavor_immersed_daily:sweetgreenpepperseed",
+      "plant": "flavor_immersed_daily:sweetgreenpepperseed"
+    },
+    {
+      "id": "zucchiniseed",
+      "seed": "flavor_immersed_daily:zucchiniseed",
+      "plant": "flavor_immersed_daily:zucchiniseed"
+    },
+    {
+      "id": "blackfungsseed",
+      "seed": "flavor_immersed_daily:blackfungsseed",
+      "plant": "flavor_immersed_daily:blackfungsseed",
+      "allow_non_crop_block": true,
+      "soil_tag": "flavorimmersedcropaddons:mushroom_soil",
+      "soil_item": "minecraft:oak_log"
+    },
+    {
+      "id": "enokimushroomseed",
+      "seed": "flavor_immersed_daily:enokimushroomseed",
+      "plant": "flavor_immersed_daily:enokimushroomseed",
+      "allow_non_crop_block": true,
+      "soil_tag": "flavorimmersedcropaddons:mushroom_soil",
+      "soil_item": "minecraft:oak_log"
+    },
+    {
+      "id": "fragrantseed",
+      "seed": "flavor_immersed_daily:fragrantseed",
+      "plant": "flavor_immersed_daily:fragrantseed",
+      "allow_non_crop_block": true,
+      "soil_tag": "flavorimmersedcropaddons:mushroom_soil",
+      "soil_item": "minecraft:oak_log"
+    },
+    {
+      "id": "pleurotusseed",
+      "seed": "flavor_immersed_daily:pleurotusseed",
+      "plant": "flavor_immersed_daily:pleurotusseed",
+      "allow_non_crop_block": true,
+      "soil_tag": "flavorimmersedcropaddons:mushroom_soil",
+      "soil_item": "minecraft:oak_log"
+    },
+    {
+      "id": "tremellaseed",
+      "seed": "flavor_immersed_daily:tremellaseed",
+      "plant": "flavor_immersed_daily:tremellaseed",
+      "allow_non_crop_block": true,
+      "soil_tag": "flavorimmersedcropaddons:mushroom_soil",
+      "soil_item": "minecraft:oak_log"
+    },
+    {
+      "id": "white_mushroom_seed",
+      "seed": "flavor_immersed_daily:white_mushroom_seed",
+      "plant": "flavor_immersed_daily:white_mushroom_seed",
+      "allow_non_crop_block": true,
+      "soil_tag": "flavorimmersedcropaddons:mushroom_soil",
+      "soil_item": "minecraft:oak_log"
+    }
+  ]
+}

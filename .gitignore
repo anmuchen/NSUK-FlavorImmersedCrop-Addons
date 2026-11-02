@@ -1,0 +1,32 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+runs
+run-data
+logs
+*.log
+dist
+repo
+
+# 第三方依赖 jar（New-Sim-U-Kraft / ldlib2 / nsukcropapi 等）
+# 这些不是本仓库的源码产物；本地构建请自行构建或放入 libs/ 目录
+libs/

@@ -1,0 +1,88 @@
+{
+  "mod": "flavor_immersed_daily",
+  "prefix": "fidt",
+  "discover": false,
+  "crops": [
+    {
+      "id": "tomatoblock",
+      "seed": "flavor_immersed_daily:tomatoseed",
+      "plant": "flavor_immersed_daily:tomatoblock",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:tomatoblock",
+      "fruit_item": "flavor_immersed_daily:tomato"
+    },
+    {
+      "id": "cucumberseeds",
+      "seed": "flavor_immersed_daily:cucumberseeds",
+      "plant": "flavor_immersed_daily:cucumberseeds",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:cucumberseeds",
+      "fruit_item": "flavor_immersed_daily:cucumber"
+    },
+    {
+      "id": "aubergineseedblock",
+      "seed": "flavor_immersed_daily:aubergineseedblock",
+      "plant": "flavor_immersed_daily:aubergineseedblock",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:aubergineseedblock",
+      "fruit_item": "flavor_immersed_daily:aubergine"
+    },
+    {
+      "id": "cowpeabeanseed",
+      "seed": "flavor_immersed_daily:cowpeabeanseed",
+      "plant": "flavor_immersed_daily:cowpeabeanseed",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:cowpeabeanseed",
+      "fruit_item": "flavor_immersed_daily:cowpea"
+    },
+    {
+      "id": "kidneybeanblock",
+      "seed": "flavor_immersed_daily:kidneybeanseed",
+      "plant": "flavor_immersed_daily:kidneybeanblock",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:kidneybeanblock",
+      "fruit_item": "flavor_immersed_daily:kidneybean"
+    },
+    {
+      "id": "loofahblock",
+      "seed": "flavor_immersed_daily:loofahseed",
+      "plant": "flavor_immersed_daily:loofahblock",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:loofahblock",
+      "fruit_item": "flavor_immersed_daily:loofah"
+    },
+    {
+      "id": "wax_gourd_seed_block",
+      "seed": "flavor_immersed_daily:wax_gourd_seed_block",
+      "plant": "flavor_immersed_daily:wax_gourd_seed_block",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:wax_gourd_seed_block",
+      "fruit_item": "flavor_immersed_daily:waxgourd"
+    },
+    {
+      "id": "grapeblock",
+      "seed": "flavor_immersed_daily:grapeseed",
+      "plant": "flavor_immersed_daily:grapeblock",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:grapeblock",
+      "fruit_item": "flavor_immersed_daily:grape"
+    },
+    {
+      "id": "greengrapeblock",
+      "seed": "flavor_immersed_daily:greengrapeseed",
+      "plant": "flavor_immersed_daily:greengrapeblock",
+      "layout": "canopy",
+      "support_block": "flavor_immersed_daily:trellis",
+      "fruit_block": "flavor_immersed_daily:greengrapeblock",
+      "fruit_item": "flavor_immersed_daily:agreengrape"
+    }
+  ]
+}
