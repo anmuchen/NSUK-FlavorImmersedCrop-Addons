@@ -69,7 +69,7 @@ configurations {
 
 dependencies {
     // NSUK crop API：作物注册表 + 五阶段作业接管 + 统一选择界面
-    compileOnly files('libs/nsukcropapi-1.0.0.jar')
+    compileOnly files('libs/nsukcropapi-1.1.1.jar')
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
